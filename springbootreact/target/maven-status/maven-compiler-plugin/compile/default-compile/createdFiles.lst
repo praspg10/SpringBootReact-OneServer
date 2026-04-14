@@ -1,0 +1,8 @@
+com\example\springbootreact\exception\ResourceNotFoundException.class
+com\example\springbootreact\controller\StudentController.class
+com\example\springbootreact\exception\GlobalExceptionHandler.class
+com\example\springbootreact\repository\StudentRepository.class
+com\example\springbootreact\service\StudentService.class
+com\example\springbootreact\entity\Student.class
+com\example\springbootreact\controller\HomeController.class
+com\example\springbootreact\SpringbootreactApplication.class
